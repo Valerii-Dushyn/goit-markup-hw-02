@@ -82,7 +82,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 
@@ -129,6 +129,7 @@ a {
   text-transform: capitalize;
 }
 .staff-list {
+  background-color: #ffffff;
 }
 .staff-item {
 }
@@ -158,10 +159,11 @@ a {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-list {
 }
