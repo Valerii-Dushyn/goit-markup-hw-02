@@ -90,15 +90,15 @@ a {
   background-color: #404bbf;
 }
 
-/*=====APPROACH===== */
+/*=====FEATURES===== */
 
-.approach {
+.features {
 }
-.approach-list {
+.features-list {
 }
-.approach-item {
+.features-item {
 }
-.approach-subtitle {
+.features-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -106,7 +106,7 @@ a {
   color: #2e2f42;
 }
 
-.approach-text {
+.features-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
